@@ -1,0 +1,10 @@
+20:27:58.257608 IP localhost.55616 > localhost.XmlIpcRegSvc: Flags [S], seq 194538073, win 65535, options [mss 16344,nop,wscale 5,nop,nop,TS val 992670800 ecr 0,sackOK,eol], length 0
+20:27:58.257670 IP localhost.XmlIpcRegSvc > localhost.55616: Flags [S.], seq 2046427205, ack 194538074, win 65535, options [mss 16344,nop,wscale 5,nop,nop,TS val 992670800 ecr 992670800,sackOK,eol], length 0
+20:27:58.257681 IP localhost.55616 > localhost.XmlIpcRegSvc: Flags [.], ack 1, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 0
+20:27:58.257691 IP localhost.XmlIpcRegSvc > localhost.55616: Flags [.], ack 1, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 0
+20:27:58.257881 IP localhost.XmlIpcRegSvc > localhost.55616: Flags [P.], seq 1:12, ack 1, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 11
+20:27:58.257894 IP localhost.XmlIpcRegSvc > localhost.55616: Flags [F.], seq 12, ack 1, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 0
+20:27:58.257910 IP localhost.55616 > localhost.XmlIpcRegSvc: Flags [.], ack 12, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 0
+20:27:58.257921 IP localhost.55616 > localhost.XmlIpcRegSvc: Flags [.], ack 13, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 0
+20:27:58.258177 IP localhost.55616 > localhost.XmlIpcRegSvc: Flags [F.], seq 1, ack 13, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 0
+20:27:58.258203 IP localhost.XmlIpcRegSvc > localhost.55616: Flags [.], ack 2, win 12759, options [nop,nop,TS val 992670800 ecr 992670800], length 0

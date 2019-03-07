@@ -1,0 +1,10 @@
+20:15:20.524919 IP localhost.55359 > localhost.xmltec-xmlmail: Flags [S], seq 3540973581, win 65535, options [mss 16344,nop,wscale 5,nop,nop,TS val 991915680 ecr 0,sackOK,eol], length 0
+20:15:20.524985 IP localhost.xmltec-xmlmail > localhost.55359: Flags [S.], seq 3479166686, ack 3540973582, win 65535, options [mss 16344,nop,wscale 5,nop,nop,TS val 991915680 ecr 991915680,sackOK,eol], length 0
+20:15:20.524995 IP localhost.55359 > localhost.xmltec-xmlmail: Flags [.], ack 1, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 0
+20:15:20.525004 IP localhost.xmltec-xmlmail > localhost.55359: Flags [.], ack 1, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 0
+20:15:20.525082 IP localhost.xmltec-xmlmail > localhost.55359: Flags [P.], seq 1:12, ack 1, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 11
+20:15:20.525105 IP localhost.55359 > localhost.xmltec-xmlmail: Flags [.], ack 12, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 0
+20:15:20.525137 IP localhost.xmltec-xmlmail > localhost.55359: Flags [F.], seq 12, ack 1, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 0
+20:15:20.525153 IP localhost.55359 > localhost.xmltec-xmlmail: Flags [.], ack 13, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 0
+20:15:20.525191 IP localhost.55359 > localhost.xmltec-xmlmail: Flags [F.], seq 1, ack 13, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 0
+20:15:20.525226 IP localhost.xmltec-xmlmail > localhost.55359: Flags [.], ack 2, win 12759, options [nop,nop,TS val 991915680 ecr 991915680], length 0

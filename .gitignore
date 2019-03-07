@@ -1,3 +1,3 @@
-client
-closeversion
-shutdownversion
+./client/client
+./closeversion/closeversion
+./shutdownversion/shutdownversion
